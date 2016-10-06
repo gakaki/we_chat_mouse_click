@@ -1,0 +1,6 @@
+framework module Pods_MouseClick {
+  umbrella header "Pods-MouseClick-umbrella.h"
+
+  export *
+  module * { export * }
+}
